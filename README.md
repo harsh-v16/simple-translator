@@ -37,6 +37,7 @@ This is a beginner-friendly Python project that translates a phrase by replacing
 python translator.py 
 Enter any phrase when prompted, and get the translated version instantly.
 
+
 ---
 
 ## 👤 Author
