@@ -30,10 +30,11 @@ This is a beginner-friendly Python project that translates a phrase by replacing
 
 ---
 
-## 🚀 How to Run:
+```markdown
+## 🚀 How to Run
 
 ```bash
-python translator.py
+python translator.py 
 Enter any phrase when prompted, and get the translated version instantly.
 
 ---
