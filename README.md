@@ -29,14 +29,9 @@ This is a beginner-friendly Python project that translates a phrase by replacing
 - User input handling
 
 ---
-
-```markdown
 ## 🚀 How to Run
-
-```bash
 python translator.py 
 Enter any phrase when prompted, and get the translated version instantly.
-
 
 ---
 
@@ -45,6 +40,9 @@ Enter any phrase when prompted, and get the translated version instantly.
 *Harsh Chaudhary*  
 Aspiring Python & AI Developer  
 🔗 [GitHub Profile](https://github.com/harsh-v16)
+
+
+
 
 
 
