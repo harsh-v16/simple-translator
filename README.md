@@ -36,6 +36,13 @@ This is a beginner-friendly Python project that translates a phrase by replacing
 python translator.py
 Enter any phrase when prompted, and get the translated version instantly.
 
-## 📌 Author  
+---
+
+## 👤 Author
+
 *Harsh Chaudhary*  
-Aspiring Python & AI Developer | [GitHub](https://github.com/harsh-v16)
+Aspiring Python & AI Developer  
+🔗 [GitHub Profile](https://github.com/harsh-v16)
+
+
+
